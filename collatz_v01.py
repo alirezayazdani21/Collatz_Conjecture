@@ -1,8 +1,8 @@
 import streamlit as st
-import math
+#import math
 import numpy as np
 import pandas as pd
-import random
+#import random
 import matplotlib.pyplot as plt
 import seaborn as sns
 
